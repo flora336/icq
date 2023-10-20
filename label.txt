@@ -1,0 +1,13 @@
+In each file, the file name is the name of a cue. 
+Annotators are asked to decide whether the question can be correctly chosen without the cue in a question. 
+A question contain two lines, n-1 and n-2. 
+1. You should fill in the "significant or not" column that whether the cue is significant for solving the problem.
+2. You are also asked to change the original answer to substitute the original cue. The changed sentence can be filled in the last colume. 
+For example in COPA:
+for word feature "an" in a question
+
+187-1,The vacationer take a ferry to the resort .,The resort be book .
+187-2,The vacationer take a ferry to the resort .,The resort be on an island .
+
+There is no significance for human to choose the right answer with "an". 
+The changed version can be "The resort be on another island ." 

@@ -1,0 +1,10 @@
+1. process.py is used to formalize data file into target version(lemma or original)
+
+2. extract_feature.py  is used to judge the features for each case
+
+3. sp_tests.py is used to split the test cases 
+
+4. test.py is used to merge the cases and model result together.
+
+
+
