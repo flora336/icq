@@ -17,5 +17,5 @@ Description: This script merges the test cases and model results together.
 
 Demo
 
-While the direct link to the demo is currently unavailable, one video is given.
+While the direct link to the demo is currently unavailable, two videos are given (online-demo1.mp4 and online-demo2.mp4).
 
